@@ -1,0 +1,20 @@
+a,a:link,a:visited{
+	text-decoration:none;
+	color:#3156A3;
+	border-bottom: 1px dotted #3156A3;
+}
+a:hover{
+	border-bottom-style:solid;
+}
+
+header {
+	position:relative;
+	border-style:none;
+	padding-left:0;
+	padding-bottom:3px;
+	color:#FFFFFF;
+	margin:0;
+	background-color:#ffffff;
+	width:100%;
+	text-align:center;
+}

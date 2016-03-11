@@ -1,0 +1,31 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:700,700italic,900,900italic,400,400italic&subset=cyrillic,latin);
+body {
+	color:#000000;
+	background-color:#f8f8f8;
+	font-family:'Roboto',arial, verdana, sans-serif;
+	margin:0 !important;
+	padding:0 !important;
+	background-size:cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-position:30% 50%;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	font-size:1vw;
+}
+
+html{
+	padding:0;
+	-moz-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+	-webkit-font-smoothing: antialiased;
+}
+
+#bodycontainer{
+	min-height: calc(100vh - 18em);
+	min-height: -moz-calc(100vh - 18em);
+	min-height: -webkit-calc(100vh - 18em);
+	min-height: -o-calc(100vh - 18em);
+}
+
