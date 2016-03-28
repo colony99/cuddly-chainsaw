@@ -8,3 +8,5 @@ function makeid()
 
     return text;
 }
+
+alert(makeid());
