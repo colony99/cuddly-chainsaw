@@ -1,0 +1,9 @@
+/.settings/
+/Thumbs.db
+/**/Thumbs.db
+*.classpath
+*.iml
+*.eml
+/.idea/
+/node_modules
+/build
